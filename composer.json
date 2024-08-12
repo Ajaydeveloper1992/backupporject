@@ -1,0 +1,21 @@
+{
+    "name": "ajay/reac_wp_plugin",
+    "description": "this plugin this testinf basice code larning",
+    "type": "composer-plugin",
+    "require-dev": {
+        "react_base_plugin": "1.0.0"
+    },
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Ajay\\ReacWpPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ajay"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
